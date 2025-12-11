@@ -5,9 +5,14 @@
 <p align="center"> Born out of boredom and a weird urgent need to convert documents after getting a new machine, DocuFlare is a not-so-powerful and not-so-versatile document converter that transforms a variety of file formats, including `.docx`, `.pptx`, `.xlsx`, `.txt`, `.md`, and images, into PDF documents.
 It’s meant to be an offline, <b>FREE!!!</b> tool designed for simplicity, speed, and ease of use, featuring a clean user interface and batch processing capabilities...but there are many issues that remain to be resolved.</p>
 
+<br>
+
+*Developer's Thoughts: This was vibecoded during a single lunch break since I wanted to try vibecoding for the first time :P (note to self: don't ever vibecode)*
+
+
 ---
 
-## <p align="Centre">🚀 Features</p>
+## <p align="Centre">Features</p>
 
 - **Multi-format support**: Convert Word, Excel, PowerPoint, Markdown, plain text files, and images (`.jpg`, `.png`) to PDF.
 - **Batch processing**: Convert multiple files at once, or even entire ZIP files.
@@ -18,7 +23,7 @@ It’s meant to be an offline, <b>FREE!!!</b> tool designed for simplicity, spee
 
 ---
 
-## <p align="centre">🛠 Installation</p>
+## <p align="centre>Installation</p>
 
 ### <p align="left">Prerequisites</p>
 
@@ -56,7 +61,7 @@ Ensure you have **Python 3.8+** installed on your machine. Then, clone the repos
 
 ---
 
-## <p align="centre">🚦 Usage</p>
+## <p align="centre">Usage</p>
 
 1. **Run the application**:
 
@@ -127,11 +132,11 @@ Ensure you have **Python 3.8+** installed on your machine. Then, clone the repos
 
 ---
 
-This project is still a work-in progress, so please do provide feedback or report any further issues to [pengsatwork@gmail.com](mailto:pengsatwork@gmail.com).
+This project is still a work-in progress, so please do provide feedback or report any further issues to [pengsatwork@gmail.com](mailto:pengsatwork@gmail.com). (Honestly I vibecoded this in 15 minutes so I might not continue this project)
 
 ---
 
-## <p align="left">🧩 Contributing</p>
+## <p align="left">Contributing</p>
 
 
 We welcome contributions! To get started:
@@ -146,13 +151,13 @@ Feel free to open issues for bug reports, feature requests, or general questions
 
 ---
 
-## <p align="left">📝 License</p>
+## <p align="left">License</p>
 
 **DocuFlare** is licensed under the **GPLv3 License**. Please see the `LICENSE` file for more information.
 
 ---
 
-## <p align="left">📞 Contact</p>
+## <p align="left">Contact</p>
 
 If you have any questions or need further assistance, or would like to start a project with me :3
 
